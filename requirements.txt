@@ -10,4 +10,4 @@ safetensors==0.3.0
 sentencepiece
 tqdm
 git+https://github.com/huggingface/transformers
-
+torch
